@@ -1,35 +1,5 @@
-# Thank you for purchasing an Official Bootstrap Theme <3 #
+# ZEFR ProjectID #
 
-Within your Bootstrap Theme you’ll find the following directories and files, grouping common resources and providing both compiled and minified distribution files, as well as raw source files.
-
-```
-toolkit/
-  ├── gulpfile.js
-  ├── package.json
-  ├── README.md
-  ├── docs/
-  ├── less/
-  │   ├── bootstrap/
-  │   ├── custom/
-  │   ├── variables.less
-  │   └── toolkit.less
-  ├── js/
-  │   ├── bootstrap/
-  │   └── custom/
-  ├── fonts/
-  │   ├── bootstrap-entypo.eot
-  │   ├── bootstrap-entypo.svg
-  │   ├── bootstrap-entypo.ttf
-  │   ├── bootstrap-entypo.woff
-  │   └── bootstrap-entypo.woff2
-  └── dist/
-      ├── toolkit.css
-      ├── toolkit.css.map
-      ├── toolkit.min.css
-      ├── toolkit.min.css.map
-      ├── toolkit.js
-      └── toolkit.min.js
-```
 
 #### Docs and Examples
 
@@ -65,4 +35,4 @@ From here on out, simply run `gulp` from your terminal and you're good to go!
 
 #### Support
 
-If you experience any problems with the above, or if you think you've found a bug with your theme - please don't hesitate to reach out to themes@getbootstrap.com. thanks!
+email brock@zefr.com
